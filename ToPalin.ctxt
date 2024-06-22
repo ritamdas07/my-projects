@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ToPalin
+comment1.params=w
+comment1.target=boolean\ checkPalin(java.lang.String)
+comment2.params=w
+comment2.target=java.lang.String\ change(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
